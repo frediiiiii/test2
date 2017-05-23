@@ -1,0 +1,5 @@
+﻿  test2.cpp
+c:\users\frederic\documents\visual studio 2015\projects\test2\test2\markup.h(14): fatal error C1083: Impossible d'ouvrir le fichier include : 'stdafh.x' : No such file or directory
+  Markup.cpp
+c:\users\frederic\documents\visual studio 2015\projects\test2\test2\markup.h(14): fatal error C1083: Impossible d'ouvrir le fichier include : 'stdafh.x' : No such file or directory
+  Génération de code en cours...
